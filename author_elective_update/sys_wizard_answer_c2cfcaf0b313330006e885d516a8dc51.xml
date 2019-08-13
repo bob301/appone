@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Extension</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Extension</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0797a5b448133300964f5f791ac6476a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:35:00</sys_created_on>
+        <sys_id>c2cfcaf0b313330006e885d516a8dc51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extension</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_update_name>sys_wizard_answer_c2cfcaf0b313330006e885d516a8dc51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:35:00</sys_updated_on>
+        <table/>
+        <target_url>sn_appone_extension.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Appone">074f4eb0b313330006e885d516a8dc00</application>
+        <file_path/>
+        <instance_id>b9bb0569a5223300ddd7b25c30a484f7</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_wizard_answer_c2cfcaf0b313330006e885d516a8dc51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Extension</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Extension</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">0797a5b448133300964f5f791ac6476a</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:35:00</sys_created_on>
+        <sys_id>c2cfcaf0b313330006e885d516a8dc51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extension</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_update_name>sys_wizard_answer_c2cfcaf0b313330006e885d516a8dc51</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:35:00</sys_updated_on>
+        <table/>
+        <target_url>sn_appone_extension.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>]]></payload>
+        <payload_hash>-765777912</payload_hash>
+        <record_name>Extension</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:40:33</sys_created_on>
+        <sys_id>9301da34b313330006e885d516a8dc5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c8d23db420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:40:33</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>5301da34af133300567e32fb4cb5a85a</update_guid>
+        <update_guid_history>b9019a34d11333008906cee0228d3c27:-1783980859,0800def03113330061b1c34e2ec64450:-493608351,0000def0df133300abeda6fc04dfaa4c:-1029288775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:59:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0fe33dcc9d9f4cb8873b6fb0314380a9</sys_id>
+        <sys_metadata>c2cfcaf0b313330006e885d516a8dc51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Extension</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_parent display_value="Task">555b09a5a5223300ddd7b25c30a4840d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_scope_delete display_value="">1c8a58e2ae08405c9da21f40f9fd5c10</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_c2cfcaf0b313330006e885d516a8dc51</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_c2cfcaf0b313330006e885d516a8dc51">9301da34b313330006e885d516a8dc5a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:59:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

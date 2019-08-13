@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:34:59</sys_created_on>
+        <sys_id>39cfcaf0b313330006e885d516a8dc40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_appone_extension.sn_appone.extension_user</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_security_acl display_value="sn_appone_extension">b5cfcaf0b313330006e885d516a8dc3d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_39cfcaf0b313330006e885d516a8dc40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:34:59</sys_updated_on>
+        <sys_user_role display_value="sn_appone.extension_user" name="sn_appone.extension_user">a1cf46f0b313330006e885d516a8dc6d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Appone">074f4eb0b313330006e885d516a8dc00</application>
+        <file_path/>
+        <instance_id>b9bb0569a5223300ddd7b25c30a484f7</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_role_39cfcaf0b313330006e885d516a8dc40</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:34:59</sys_created_on>
+        <sys_id>39cfcaf0b313330006e885d516a8dc40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_appone_extension.sn_appone.extension_user</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_security_acl display_value="sn_appone_extension">b5cfcaf0b313330006e885d516a8dc3d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_39cfcaf0b313330006e885d516a8dc40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:34:59</sys_updated_on>
+        <sys_user_role display_value="sn_appone.extension_user" name="sn_appone.extension_user">a1cf46f0b313330006e885d516a8dc6d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>134151758</payload_hash>
+        <record_name>sn_appone_extension.sn_appone.extension_user</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:40:32</sys_created_on>
+        <sys_id>1b01da34b313330006e885d516a8dc40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c8d23dab10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:40:32</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d701da3455133300d780da6c6d834940</update_guid>
+        <update_guid_history>99015a34d71333006c1e7fa22c197be7:2034904921,e3ff8ef0c4133300d60848ad9dccb1f0:1489690294,3dcfcaf0f2133300f4a73b532cece942:-352708120</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_appone_extension.sn_appone.extension_user">977516f4b313330006e885d516a8dc57</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 22:59:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>28857c52a8dd41b3b21a8d4e4b26fd59</sys_id>
+        <sys_metadata>39cfcaf0b313330006e885d516a8dc40</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_appone_extension.sn_appone.extension_user</sys_name>
+        <sys_package display_value="Appone" source="sn_appone">074f4eb0b313330006e885d516a8dc00</sys_package>
+        <sys_parent display_value="">b5cfcaf0b313330006e885d516a8dc3d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Appone">074f4eb0b313330006e885d516a8dc00</sys_scope>
+        <sys_scope_delete display_value="">1c8a58e2ae08405c9da21f40f9fd5c10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_39cfcaf0b313330006e885d516a8dc40</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_39cfcaf0b313330006e885d516a8dc40">1b01da34b313330006e885d516a8dc40</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 22:59:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
