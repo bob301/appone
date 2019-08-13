@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Extension" max_length="40" name="sn_appone_extension" type="collection">
+        <element label="Foo" max_length="100" name="foo" type="string"/>
+    </element>
+</database>
